@@ -31,4 +31,5 @@ function multiply(a, b){
 - Belarusian (native)
 - English A2
 - Polish (basics)
+- Ukranian (basics)
 
